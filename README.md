@@ -2,7 +2,7 @@ this is my custom build State management library integrated with the working cou
 
 State folder contains the MAIN CODE FOR THE STATE MANAGEMENT ENGiNE TO WORK
 
-AppState holds the providers mapping, to be done by user
+AppState holds the providers mapping, to be done by the Developer using the library
 
 Rest is providers and UI 
 
